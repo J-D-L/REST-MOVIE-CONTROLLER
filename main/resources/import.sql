@@ -1,0 +1,1 @@
+insert into movie (id,title,year,mpaa_Rating,release_Date,runtime,genre,director,writer,plot,language,country,imdb_Rating,imdb_Votes,imdbID) VALUES (1,'Rambo',1998,'R','Apr 1 1999',209,'Action','Pee Wee Herman','Sylvester The Cat','Kill Viet Congs','English','USA',5.2,75,'tt00345');
